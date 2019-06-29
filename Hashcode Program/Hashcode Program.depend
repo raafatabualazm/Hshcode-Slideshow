@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1551551482 source:d:\hashcode slideshow\hashcode program\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<set>
+
